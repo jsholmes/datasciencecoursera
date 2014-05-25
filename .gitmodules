@@ -1,0 +1,3 @@
+[submodule "pset2/ProgrammingAssignment2"]
+	path = pset2/ProgrammingAssignment2
+	url = git@github.com:jsholmes/ProgrammingAssignment2.git
